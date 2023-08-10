@@ -1,0 +1,86 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "POL 310: Religion and Politics in the U.S."
+  site-url: "https://pol310.fall23.equezadallanes.com/"
+  
+  navbar:
+    pinned: true
+    background: "#633296"
+    right:
+      - text: "Syllabus"
+        file: index.qmd
+      - text: "Schedule"
+        file: schedule.qmd
+      - text: "Content"
+        file: content/index.qmd
+      - text: "Assignments"
+        file: assignment/index.qmd
+      - text: "Resources"
+        file: resource/index.qmd
+
+  sidebar:
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Overview"
+          contents:
+            - assignment/index.qmd
+        - section: "Assignments"
+          contents:
+            - assignment/congregational-visit.qmd
+            - assignment/oral-presentation.qmd
+            - assignment/campaign-memo.qmd
+            - assignment/op-ed.qmd
+            
+    - title: "Content"
+      contents:
+        - section: "Overview"
+          contents:
+            - content/index.qmd
+        - section: "Topics"
+          contents:
+            - content/01-intro.qmd
+            - content/02-church-state.qmd
+            - content/03-historical-context.qmd
+            - content/04-religion-to-politics.qmd
+            - content/05-voting-behavior.qmd
+            - content/06-religious-language.qmd
+            - content/07-black-protestants.qmd
+            - content/08-latino-religion.qmd
+            - content/09-religious-right.qmd
+            - content/10-politics-to-religion.qmd
+            - content/11-religious-left.qmd
+            - content/12-contemporary.qmd
+        - section: "Exam Guides"
+          contents:
+            - content/midterm-guide.qmd
+            - content/final-guide.qmd
+    
+    - title: "Resources"
+      contents:
+        - section: "Overview"
+          contents:
+            - resource/index.qmd
+            - resource/reading.qmd
+            - resource/writing.qmd
+            - resource/summaries.qmd
+            - resource/op-ed.qmd
+            - resource/citations.qmd
+            - resource/website.qmd
+
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
+
+filters:
+  - newpagelink.lua
