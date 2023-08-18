@@ -84,3 +84,6 @@ format:
 
 filters:
   - newpagelink.lua
+  
+resources: 
+  - CNAME
