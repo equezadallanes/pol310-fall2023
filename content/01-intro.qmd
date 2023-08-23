@@ -8,6 +8,8 @@ During the first week we will go over the syllabus, which you can check out on t
 
 We will go over the syllabus and class.
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/1_Introduction.pdf)
+
 ---
 
 ## Friday, August 25
