@@ -19,3 +19,6 @@ We will go over the syllabus and class.
 1. **Wald, Kenneth and Allison Calhoun-Brown. 2018. "A Secular Society?" In *Religion and Politics in the United States 6th Edition.* New York: Rowman & Littlefield.** (read Chapter 1; skim Chapter 2). [{{< fa university >}}](https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=nlebk&AN=341943&site=eds-live&scope=site&custid=asc1&ebv=EB&ppid=pp_1)
  
     - If you want to get started with your summaries, you can summarize Chapter 1 of this reading.
+    
+    
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/2_Religious_Landscape.pdf)
