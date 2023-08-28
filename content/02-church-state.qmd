@@ -11,6 +11,8 @@ title: "The (Messy) Relationship Between Church and State"
 1. Hertzke, Allen D., Laura R. Olson, Kevin R. den Dulk, and Robert Booth Fowler. 2018. "Church and State in the Courts." In *Religion and Politics in America: Faith, Culture, and Strategic Choices. 6th ed.* New York, NY: Routledge. (Chapter 12; {{< fa file-pdf >}} available on Canvas)
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/handouts/3_ChurchState_Court.pdf)
+
 ---
 
 ## Wednesday, August 30

@@ -8,7 +8,7 @@ During the first week we will go over the syllabus, which you can check out on t
 
 We will go over the syllabus and class.
 
-[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/1_Introduction.pdf)
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/handouts/1_Introduction.pdf)
 
 ---
 
@@ -21,4 +21,4 @@ We will go over the syllabus and class.
     - If you want to get started with your summaries, you can summarize Chapter 1 of this reading.
     
     
-[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/2_Religious_Landscape.pdf)
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](/data/handouts/2_Religious_Landscape.pdf)
