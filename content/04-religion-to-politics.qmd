@@ -11,8 +11,7 @@ title: "How Religion Affects Politics"
 1. Djupe, Paul A., and Christopher P. Gilbert. 2009. "A Theory of Religious Influences on Political Behavior." In *The Political Influence of Churches.* New York: Cambridge University Press. (Introduction: pp 1-20.) [{{< fa university >}}](https://search.ebscohost.com/login.aspx?direct=true&AuthType=shib&db=nlebk&AN=331291&site=eds-live&scope=site&custid=asc1&ebv=EB&ppid=pp_1)
 
 
-
-
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/582858)
 
 ---
 
