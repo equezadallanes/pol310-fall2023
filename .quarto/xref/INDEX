@@ -139,5 +139,8 @@
   },
   "content/final-guide.qmd": {
     "final-guide.html": "f2c141bd"
+  },
+  "resource/paper1_resources.qmd": {
+    "paper1_resources.html": "9ad827fe"
   }
 }
