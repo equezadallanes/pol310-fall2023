@@ -35,3 +35,8 @@ To ensure that we can compare our data with the rest of the class, we will be us
 3. Category 3: explicit mentions of sociopolitical issues with explicit call to action
 		- 3P: Calls to political action (i.e., voting, contacting elected officials, attending a protest)
 		- 3S: Calls to social action (i.e., visiting the elderly, feeding the homeless, environmental work, etc.)
+		
+		
+# Classification of Protestant Denominations
+
+If you attend the religious service of a Protestant denomination, make sure to identify it as either mainline or evangelical Protestant. You can use [Pew's website](https://www.pewresearch.org/religion/2015/05/12/appendix-b-classification-of-protestant-denominations/) to help you classify it.
