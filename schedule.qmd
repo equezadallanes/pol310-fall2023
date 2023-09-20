@@ -18,6 +18,10 @@ schedule <- read_csv("data/schedule.csv", show_col_types = FALSE)
 
 Here you can find the schedule for the semester with links to the list of readings for each week. In addition you'll find links to instructions for the assignments in this course.
 
+:::{.callout-important}
+Updated on September 20th
+:::
+
 As a reminder, you are expected to submit a weekly summary for eight weeks in the semester via Canvas before class time on the day the reading was assigned.
 
 
