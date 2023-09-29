@@ -57,3 +57,8 @@ Updated
 ## Friday, September 29
 
 - No assigned reading 
+
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides - Religion and Candidate Support </span></p>](https://agnesscott.instructure.com/files/593889)
+
+
