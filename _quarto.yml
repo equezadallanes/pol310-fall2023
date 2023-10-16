@@ -33,7 +33,6 @@ website:
         - section: "Assignments"
           contents:
             - assignment/congregational-visit.qmd
-            - assignment/oral-presentation.qmd
             - assignment/campaign-memo.qmd
             - assignment/op-ed.qmd
             
