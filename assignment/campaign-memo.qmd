@@ -5,7 +5,7 @@ title: "Campaign Memo"
 :::{.callout-important}
 Final Draft Due November 10th at 5:00 pm on Canvas.
 
-You **must** turn in a full draft on Canvas on October 30th so that one of your peers can give you feedback. In turn, you will give feedback to a classmate, which should be completed by November 3rd.
+UPDATED: You **must** turn in a full draft on Canvas on November 1st so that one of your peers can give you feedback. In turn, you will give feedback to a classmate, which should be completed by November 3rd.
 :::
 
 [<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](/data/paper2.pdf)
@@ -44,6 +44,13 @@ Here are some examples of campaign and political memos. These address various gr
 - [DeSantis memo](https://s3.documentcloud.org/documents/23874013/0051_001.pdf)
 
 
+The following websites have some helpful data:
+
+- [PRRI's American Values Atlas](https://ava.prri.org/)
+- [PRRI's AVA State Profiles](https://ava.prri.org/state?state=GA)
+- [PRRI - Some County-level Maps (may be useful)](https://www.prri.org/research/2020-census-of-american-religion/#page-section-1)
+- [2020 U.S. Religious Census - Group detail data by nation, state, county and metro](https://www.usreligioncensus.org/sites/default/files/2023-06/2020_USRC_Group_Detail.xlsx)
+- [2014 Pew Data on Percentage of Religious Tradition by State](https://www.pewresearch.org/religion/religious-landscape-study/compare/religious-tradition/by/state/)
 
 
 
