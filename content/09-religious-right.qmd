@@ -11,6 +11,7 @@ title: "White Christians and the Religious Right"
 1. "The Evangelical Vote." *Throughline.* NPR. Podcast. [{{< fa podcast >}}](https://www.npr.org/2020/09/23/916048798/the-evangelical-vote})
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/618477/download?download_frd=1)
 
 ---
 
@@ -24,6 +25,7 @@ title: "White Christians and the Religious Right"
     - (Optional) Robert P. Jones and Terry Gross. *Fresh Air.* NPR. Podcast. [{{< fa podcast >}}](https://www.npr.org/2020/07/30/896712611/american-christianity-must-reckon-with-legacy-of-white-supremacy-author-says)
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/618479/download?download_frd=1)
 
 ---
 
@@ -35,3 +37,4 @@ title: "White Christians and the Religious Right"
 1. **Whitehead, Andrew L., and Samuel L. Perry. 2020. *Taking America Back for God: Christian Nationalism in the United States.* Oxford University Press. (Introduction: pp. 1-21).** {{< fa file-pdf >}} available on Canvas.
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/618480/download?download_frd=1)

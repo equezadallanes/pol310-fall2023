@@ -11,6 +11,7 @@ title: "Latino Catholics, Latino Protestants, and Religious Minorities"
 1. Leal, David L. 2010. "Religion and the Political and Civic Lives of Latinos." In *Religion and Democracy in the United States: Danger or Opportunity?* Alan Wolfe and Ira Katznelson (eds). Princeton, NJ: Princeton University Press. (Chapter 10: pp. 308-352.) {{< fa file-pdf >}} available on Canvas.
 
 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/618476/download?download_frd=1)
 
 
 ---
@@ -32,4 +33,6 @@ title: "Latino Catholics, Latino Protestants, and Religious Minorities"
 
 1. **Hertzke, Allen D., Laura R. Olson, Kevin R. den Dulk, and Robert Booth Fowler. 2018. "Judaism, Islam, and Other Expressions of Religious Pluralism." *Religion and Politics in America: Faith, Culture, and Strategic Choices. 6th ed.* New York, NY: Routledge.** (Chapter 4.) {{< fa file-pdf >}} available on Canvas.
 
+
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/618473/download?download_frd=1)
 

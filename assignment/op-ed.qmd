@@ -3,7 +3,7 @@ title: "Op-ed"
 ---
 
 :::{.callout-important}
-Final Draft Due December 1st at 5:00 pm on Canvas.
+UPDATED: Final Draft Due December 4th at 11:59 pm on Canvas.
 
 You **must** bring a full draft to class on November 27th so that one of your peers can give you feedback in class.
 :::
@@ -24,6 +24,8 @@ An op-ed is a short opinion piece intended for the general readership of a publi
 In your op-ed, make sure to include at least *two pieces of information* (e.g., concepts, ideas, frameworks, contextual information) that you learned in class and found particularly helpful for your understanding of this topic to make your argument.
 
 [Click here](../resource/op-ed.qmd) for more details about how to write an op-ed.
+
+Please include a word count under the title.
 
 
 ## Criteria for success

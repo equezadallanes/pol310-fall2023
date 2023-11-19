@@ -2,4 +2,47 @@
 title: "Final Guide"
 ---
 
-Coming soon!
+:::{.callout-important}
+This page has been updated to reflect what is on the final draft of the midterm exam.
+:::
+
+This is a list of concepts and frameworks with which you should be familiar for the final exam. You might be asked to define and/or apply any of these during the examination. You might not be directly asked about these terms, but they can help you answer some of the questions.
+
+Make sure to also review the midterm exam as some of those questions will reappear in the final.
+
+1. Black Protestants and the Black Church
+  1. Why do we talk about there being a Black Church? (think theological orientations, history, leadership)
+  2. Social Gospel, liberation theology, black theology vs. Prosperity Gospel
+2.Latino Catholics and Latino Protestants
+  1. Why is there no Latino Church? Or is there one? (think theological orientations, history, leadership)
+3. Religious minorities (which groups are considered religious minorities?)
+  1. What groups are included in the “Other” category and why?
+  2. Religious and political orientations of religious minorities
+  3. Mobilization of religious minorities
+4.	Clergy political speech
+  1. Reasons clergy may be influential
+  2. Challenges to clergy political influence
+5. Religious rhetoric from political elites
+  1. Presidential speech (petitioner vs prophetic speech)
+  2. Voter reactions to religious appeals (explicit and multivocal appeals)
+4. Evangelicals
+  1. Who are they and how do we identify them
+  2. Key historical events for the role of evangelicals in society
+  3. Evangelical toolbox (Emerson and Smith 2000)
+5. White Church
+  1. Explanations for how race has shaped (white) American Christianity
+  2. Racial attitudes among white Christians (Jones 2020)
+6. How politics shapes religion
+  1. Impact on religious behavior
+  2. Impact on religious identities
+7. The Nones
+  1. Who are the nones?
+  2. The religious and political orientations of the nones
+8.	Religious Left
+  1. Examples of the Religious Left
+  2. Potential for mobilization (think elite level, mass level, religious orientations)
+
+
+
+
+
