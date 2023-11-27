@@ -2,7 +2,7 @@
 title: "Writing a Summary"
 ---
 
-Writing a summary may seem to some like an easy task, while others might find it daunting. I think it's both. Understanding what should go in a summary it's crucial. This will not only help you write more useful summaries, but it will also help you become a more intentional reader.
+Writing a summary may seem to some like an easy task, while others might find it daunting. I think it's both. Understanding what should go in a summary is crucial. This will not only help you write more useful summaries, but it will also help you become a more intentional reader.
 
 A summary should help you or someone else understand the **main points** of the piece as well as some of its **context.** It should answer the following questions:
 

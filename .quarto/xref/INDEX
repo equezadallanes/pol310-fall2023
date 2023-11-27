@@ -142,5 +142,8 @@
   },
   "resource/paper1_resources.qmd": {
     "paper1_resources.html": "9ad827fe"
+  },
+  "resource/peer_review.qmd": {
+    "peer_review.html": "edc9054a"
   }
 }
