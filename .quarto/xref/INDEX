@@ -145,5 +145,32 @@
   },
   "resource/peer_review.qmd": {
     "peer_review.html": "edc9054a"
+  },
+  "content/04-partisanship-opinion.qmd": {
+    "04-partisanship-opinion.html": "90c57b35"
+  },
+  "content/09-representation.qmd": {
+    "09-representation.html": "7a20cdc0"
+  },
+  "content/05-participation.qmd": {
+    "05-participation.html": "812b3d6a"
+  },
+  "content/08-immigration.qmd": {
+    "08-immigration.html": "5c1b6d48"
+  },
+  "content/11-multiracial-coalitions.qmd": {
+    "11-multiracial-coalitions.html": "1a617019"
+  },
+  "content/06-historical-context.qmd": {
+    "06-historical-context.html": "adf90f95"
+  },
+  "content/10-elections.qmd": {
+    "10-elections.html": "7b0706ad"
+  },
+  "assignment/response-paper.qmd": {
+    "response-paper.html": "8021a9dd"
+  },
+  "assignment/weekly-summaries.qmd": {
+    "weekly-summaries.html": "e74aedbf"
   }
 }

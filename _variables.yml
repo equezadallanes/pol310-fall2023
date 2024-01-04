@@ -11,12 +11,12 @@ instructor:
   appointment_url: 
 
 course:
-  number: "POL 310"
-  semester: "Fall 2023"
+  number: "POL 330"
+  semester: "Spring 2024"
   days: "MWF"
   time: "9:30 AM – 10:20 AM"
-  location: "Buttrick Hall, Room 221"
-  dates: "August 23–December 13, 2023"
+  location: "Buttrick Hall, Room 215"
+  dates: "January 9–May 8, 2023"
 
 university:
   name: Agnes Scott College

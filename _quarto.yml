@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "POL 310: Religion and Politics in the U.S."
-  site-url: "https://pol310.fall23.equezadallanes.com/"
+  title: "POL 330: Latino/a/e Politics in the U.S."
+  site-url: "https://pol330.spring24.equezadallanes.com/"
   
   navbar:
     pinned: true
@@ -15,7 +15,7 @@ website:
       - text: "Schedule"
         file: schedule.qmd
       - text: "Content"
-        file: content/index.qmd
+        file: content/01-intro.qmd
       - text: "Assignments"
         file: assignment/index.qmd
       - text: "Resources"
@@ -32,33 +32,32 @@ website:
             - assignment/index.qmd
         - section: "Assignments"
           contents:
-            - assignment/congregational-visit.qmd
+            - assignment/weekly-summaries.qmd
+            - assignment/response-paper.qmd
             - assignment/campaign-memo.qmd
-            - assignment/op-ed.qmd
+            - assignment/oral-presentation.qmd
+        - section: "Research Design Paper"
+          contents: 
+            - assignment/research-question.qmd
+            - assignment/literature-review.qmd
+            - assignment/research-design.qmd
+            - assignment/final-paper.qmd
             
     - title: "Content"
       contents:
-        - section: "Overview"
-          contents:
-            - content/index.qmd
         - section: "Topics"
           contents:
             - content/01-intro.qmd
-            - content/02-church-state.qmd
-            - content/03-historical-context.qmd
-            - content/04-religion-to-politics.qmd
-            - content/05-voting-behavior.qmd
-            - content/06-religious-language.qmd
-            - content/07-black-protestants.qmd
-            - content/08-latino-religion.qmd
-            - content/09-religious-right.qmd
-            - content/10-politics-to-religion.qmd
-            - content/11-religious-left.qmd
-            - content/12-contemporary.qmd
-        - section: "Exam Guides"
-          contents:
-            - content/midterm-guide.qmd
-            - content/final-guide.qmd
+            - content/02-latino-identity.qmd
+            - content/03-politicized-identities.qmd
+            - content/04-partisanship-opinion.qmd
+            - content/05-participation.qmd
+            - content/06-historical-context.qmd
+            - content/07-latino-activism.qmd
+            - content/08-immigration.qmd
+            - content/09-representation.qmd
+            - content/10-elections.qmd
+            - content/11-multiracial-coalitions.qmd
     
     - title: "Resources"
       contents:
@@ -67,9 +66,7 @@ website:
             - resource/index.qmd
             - resource/reading.qmd
             - resource/writing.qmd
-            - resource/paper1_resources.qmd
             - resource/summaries.qmd
-            - resource/op-ed.qmd
             - resource/peer_review.qmd
             - resource/citations.qmd
             - resource/website.qmd

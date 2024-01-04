@@ -3,20 +3,21 @@ title: "Campaign Memo"
 ---
 
 :::{.callout-important}
-Final Draft Due November 10th at 5:00 pm on Canvas.
+Final Draft Due February 16th at 11:59 pm on Canvas.
 
-UPDATED: You **must** turn in a full draft on Canvas on November 1st so that one of your peers can give you feedback. In turn, you will give feedback to a classmate, which should be completed by November 3rd.
+We will do peer reviews at an earlier date.
 :::
 
 [<span class="btn btn-danger">{{< fa file-pdf >}} Download PDF version of the asssignment</span></p>](/data/paper2.pdf)
 
 ## Purpose
 
-This assignment will help you think critically about the role of religious voters in American elections, analyzing the various religious and non-religious groups that make up the U.S. electorate. In addition, it will help you communicate these ideas in the context of a campaign.
+This assignment will help you think critically about the role of Latino voters in American elections. Additionally, you will practice identifying key pieces of information to inform campaign strategy.
+
 
 ## Task
 
-*Write a 4- to 6-page memo for a Senate campaign (single-spaced, 12-point font, 1-inch margins). First, choose a Senate race and define your candidate (provide information on the candidate as an appendix). Next, imagine you are part of the staff and have been hired specifically to help the campaign define its strategy for religious outreach. In the memo, provide your candidate and the campaign with the information and advice they need to understand the religious landscape of their state and how this might impact any campaign messaging and/or mobilization efforts.*
+*Write a 4- to 6-page memo for a state-wide campaign (single-spaced, 12-point font, 1-inch margins) that focuses on Latine outreach. Imagine you are part of the staff and have been hired specifically to help the campaign define its strategy for Latine outreach. In the memo, provide your candidate and the campaign with the information and advice they need to understand the Latine population in their state and how this might impact any campaign messaging and/or mobilization efforts.*
 
 Make sure to provide clear takeaways for your candidate and campaign. Think about three things you want the staff to remember and be able to execute. The information and analysis you present support those conclusions.
 
@@ -25,9 +26,9 @@ Make sure to provide clear takeaways for your candidate and campaign. Think abou
 
 A successful essay will:
 
-1. Describe the religious and political characteristics of the constituency.
+1. Describe the characteristics of the Latine population in the state.
 2. Provide an analysis of the potential for mobilizing these voters and how you would do this.
-3. Clearly define three takeaways for the campaign about how to reach out to religious voters considering the proportion of non-religious voters in the district.
+3. Clearly define three takeaways for the campaign about how to reach out to Latine voters considering their proportion of the state population.
 4. Have a coherent structure (paragraphs and headers are your friends here) and no grammatical errors.^[I recommend you use software like Grammarly to have one less thing to worry about.]
 5. Reference at least two readings from class using [Chicago style](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf) for citations (i.e., footnotes). 
 
@@ -42,15 +43,6 @@ Here are some examples of campaign and political memos. These address various gr
 - [Buttigieg campaign memo example](https://www.documentcloud.org/documents/6785938-Path-to-Nomination.html)
 - [Memo to Trump on fake electors scheme](https://int.nyt.com/data/documenttools/chesebro-dec-6-memo/ce55d6abd79c2c71/full.pdf)
 - [DeSantis memo](https://s3.documentcloud.org/documents/23874013/0051_001.pdf)
-
-
-The following websites have some helpful data:
-
-- [PRRI's American Values Atlas](https://ava.prri.org/)
-- [PRRI's AVA State Profiles](https://ava.prri.org/state?state=GA)
-- [PRRI - Some County-level Maps (may be useful)](https://www.prri.org/research/2020-census-of-american-religion/#page-section-1)
-- [2020 U.S. Religious Census - Group detail data by nation, state, county and metro](https://www.usreligioncensus.org/sites/default/files/2023-06/2020_USRC_Group_Detail.xlsx)
-- [2014 Pew Data on Percentage of Religious Tradition by State](https://www.pewresearch.org/religion/religious-landscape-study/compare/religious-tradition/by/state/)
 
 
 ## Peer Review
